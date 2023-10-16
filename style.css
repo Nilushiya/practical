@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.left{
+    /* padding-top: 700px;
+   text-align: center; */
+   /* justify-content: center;
+   align-items: center; */
+   margin-top: 240px;
+   /* background-color: chartreuse; */
+}
+.label{
+    text-align: end;
+    padding-right: 10px;
+    /* text-align: end !important; */
+    margin: 5px;
+    width: 300px;
+    /* background-color: aquamarine; */
+  }
+.home{
+    width: 900px;
+    margin-top: 200px;
+    background-color: aquamarine;
+}
+.error{
+    color: red;
+    position: relative;
+    bottom: 20px;
+    left: 400px;
+}
